@@ -1,0 +1,20 @@
+{
+    "name": "http server",
+    "version": "0.1",
+    "app": {
+        "background":{
+            "scripts": ["background.bundle.js"]
+        }
+    },
+    "sockets": {
+        "tcp": {
+            "connect": "*"
+        },
+        "tcpServer": {
+            "listen": "*"
+        }
+    },
+    "permissions": []
+    
+}
+
