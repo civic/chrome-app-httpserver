@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^2.1.4",
+    "jquery": "~>3.0.0",
     "stringencoding": "0.0.0"
   },
   "devDependencies": {
